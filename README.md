@@ -1,1 +1,0 @@
-# BibleMem_ex1
